@@ -3,14 +3,14 @@ YÖK Veri Analizi Okulu için 8 haftalık kişisel Markdown notları.
 
 # YÖK Veri Analizi Okulu – Kişisel Eğitim Materyalleri
 
-📥 indir – kullan – özelleştir!
+ indir – kullan – özelleştir!
 
 Bu repo, **YÖK Veri Analizi Okulu** kapsamında hazırlanmış **kişisel Markdown notları**, **görsel özetler** ve **çalışma kılavuzlarını** içerir.  
 Amaç, öğrenme sürecini hızlandırmak, teknik altyapıyı şeffaf biçimde paylaşmak ve modüler bir öğrenme rehberi sunmaktır.
 
 ---
 
-## 🎯 Amaç ve Öğrenme Felsefesi
+## Amaç ve Öğrenme Felsefesi
 
 - **Kaynak Temeli:** Notlar, YÖK Veri Analizi Okulu oturumları ve resmi video kaynaklarına dayalıdır.  
 - **Öğrenme Önceliği:** Geleneksel not almanın ötesinde **anlama, pekiştirme ve ustalaşma** hedeflenmiştir.  
@@ -19,7 +19,7 @@ Amaç, öğrenme sürecini hızlandırmak, teknik altyapıyı şeffaf biçimde p
 
 ---
 
-## 🛠️ Kullanılan Araçlar ve Formatlar
+## Kullanılan Araçlar ve Formatlar
 
 - **Kaynak Sentezi:** AI destekli çıkarımlar ve aktif öğrenme setleri.  
 - **Yayın Formatı:** Tüm materyaller **Markdown (.md)** formatında hazırlanmıştır.  
@@ -28,7 +28,7 @@ Amaç, öğrenme sürecini hızlandırmak, teknik altyapıyı şeffaf biçimde p
 
 ---
 
-## 🔧 Özelleştirme ve Şeffaflık
+## Özelleştirme ve Şeffaflık
 
 - **Evrensel Format:** Notlar sade ve evrensel `.md` formatında hazırlanmıştır.  
 - **Özelleştirme Yeteneği:** `.md` dosyaları kolayca düzenlenebilir ve kişisel öğrenme stiline uyarlanabilir.  
@@ -37,7 +37,7 @@ Amaç, öğrenme sürecini hızlandırmak, teknik altyapıyı şeffaf biçimde p
 
 ---
 
-## 📦 İçerik
+## İçerik
 
 - **Haftalık Çalışma Kılavuzları ve Sözlükler**  
 - **Görsel Özetler (infografikler)**  
@@ -46,7 +46,7 @@ Amaç, öğrenme sürecini hızlandırmak, teknik altyapıyı şeffaf biçimde p
 ---
 ---
 
-## 📚 Detaylı İçindekiler
+## Detaylı İçindekiler
 
 Bu repo, 8 haftalık modüler içerikten oluşmaktadır. Her hafta ayrı bir `.md` dosyası ve görsel özetlerle desteklenmiştir.
 
@@ -64,12 +64,12 @@ Bu repo, 8 haftalık modüler içerikten oluşmaktadır. Her hafta ayrı bir `.m
 
 ---
 
-### 📌 Ek Materyaller
+### Ek Materyaller
 - **Infografikler:** Haftalık kavram özetleri (`.png`)  
 - **Çalışma Kılavuzları ve Sözlükler:** Pekiştirme materyalleri  
 - **Kod Blokları:** SPSS örnekleri ve `RECODE` komutları  
 
-## 📥 Kullanım
+## Kullanım
 
 1. Repo’yu indirin veya klonlayın:
    ```bash
